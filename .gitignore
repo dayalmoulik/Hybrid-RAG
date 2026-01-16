@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data artifacts
+data/raw/
+data/processed/
+data/random_urls/
+
+# Indexes
+indexes/
+
+# Model cache
+.cache/
+models/
+
+# Outputs
+results/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
