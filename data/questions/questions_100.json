@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "question": "What was John Archibald Ballard's occupation?",
+    "ground_truth_answer": "Lieutenant General John Archibald Ballard, CB LLD RE (20 June 1829 – 1 April 1880) was a British soldier.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/John_Archibald_Ballard"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "question": "What did the WannaCry ransomware attack refer to?",
+    "ground_truth_answer": "The WannaCry ransomware attack was a worldwide cyberattack in May 2017 by the WannaCry ransomware cryptoworm, which targeted computers running the Microsoft Windows operating system by encrypting data and demanding ransom payments in the form of bitcoin cryptocurrency.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/WannaCry_ransomware_attack"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "What does Lazarus Group refer to?",
+    "ground_truth_answer": "The Lazarus Group (also known as the Guardians of Peace or Whois Team) is a state-sponsored hacker group made up of unknown members, alleged to be run by the government of North Korea.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Lazarus_Group"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "question": "What is Kollam Port or Port of Quilon?",
+    "ground_truth_answer": "Kollam Port or Port of Quilon is one of the oldest ports (established in AD 825) situated 4 kilometres (2.5 mi) away from Downtown Kollam (formerly Quilon) It is the third largest port in Kerala by volume of cargo handled and facilities and one of the four Kerala ports having immigration checkpoint (ICP) facility.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Kollam_Port"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "question": "What does Anil K. Jain (born 1948) refer to?",
+    "ground_truth_answer": "Anil Kumar Jain (born 1948) is an Indian-American computer scientist and University Distinguished Professor in the Department of Computer Science and Engineering at Michigan State University.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Anil_K._Jain_(computer_scientist,_born_1948)"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "question": "What does Tamal Dey refer to?",
+    "ground_truth_answer": "Tamal Krishna Dey (born 1964) is an Indian mathematician and computer scientist specializing in computational geometry and computational topology.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Tamal_Dey"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "question": "What does the Lascar War Memorial refer to?",
+    "ground_truth_answer": "The Lascar War Memorial, located on Napier Road in the Hastings area of Kolkata, is a memorial dedicated to the memory of the 896 lascars (sailors from the Indian subcontinent) who died serving on ships of the Royal Navy and British Merchant Service during World War I.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Lascar_War_Memorial"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "question": "What was Vaidyeswaran Rajaraman known for?",
+    "ground_truth_answer": "Vaidyeswaran Rajaraman (8 September 1933 – 8 November 2025) was an Indian computer scientist, academic and writer known for his pioneering efforts in the field of Computer Science Education in India.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Vaidyeswaran_Rajaraman"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 9,
+    "question": "What is Namasivayam Gautham's occupation?",
+    "ground_truth_answer": "Namasivayam Gautham (born 1955) is a retired Professor Emeritus at the Centre of Advance Study in Crystallography and Biophysics, University of Madras.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/N._Gautham"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "question": "What does Vijay Kumar (Roboticist) refer to?",
+    "ground_truth_answer": "Vijay Kumar (born 1962) is an Indian roboticist.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Vijay_Kumar_(roboticist)"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 11,
+    "question": "What did the Political history of Mysore and Coorg (1565–1760) refer to?",
+    "ground_truth_answer": "The political history of the region on the Deccan Plateau in west-central peninsular India (Map 1) that was later divided into Mysore state and Coorg province saw many changes after the fall of the Hindu Vijayanagara Empire in 1565.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Political_history_of_Mysore_and_Coorg_(1565–1760)"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 12,
+    "question": "What was the name of the mob that lynched two Hindu Sadhus and their driver in Gadchinchale Village, Palghar District, Maharashtra, India on 16 April 2020?",
+    "ground_truth_answer": "On 16 April 2020, a vigilante group lynched two Hindu Sadhus and their driver in Gadchinchale Village, Palghar District, Maharashtra, India.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/2020_Palghar_mob_lynching"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 13,
+    "question": "What did the Sri Ram Sena attack on a group of young women and men in a pub in Mangalore, India?",
+    "ground_truth_answer": "On 24 January 2009, the Sri Ram Sena attacked a group of young women and men in a pub in Mangalore, India.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/2009_Mangalore_pub_attack"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 14,
+    "question": "What does History of Bengaluru refer to?",
+    "ground_truth_answer": "Bengaluru is the capital city of the state of Karnataka.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/History_of_Bengaluru"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 15,
+    "question": "What year was Manju Bansal born?",
+    "ground_truth_answer": "1 December 1950) has specialized in the field of Molecular biophysics.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Manju_Bansal"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 16,
+    "question": "What is Nagavara Ramarao Narayana Murthy's occupation?",
+    "ground_truth_answer": "Nagavara Ramarao Narayana Murthy (born 20 August 1946) is an Indian billionaire businessman.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/N._R._Narayana_Murthy"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 17,
+    "question": "What did the City Wall of Hyderabad refer to?",
+    "ground_truth_answer": "The City Wall of Hyderabad was a city wall surrounding Hyderabad, although the city has expanded significantly beyond the wall.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/City_Wall_of_Hyderabad"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 18,
+    "question": "What does the Hebbal-Kittayya inscription refer to?",
+    "ground_truth_answer": "Hebbal is a locality situated in the northern part of Bengaluru, is recognized as one of Bengaluru’s oldest regions, with documented history extending back at least 1,300 years.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Hebbal-Kittayya_inscription"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 19,
+    "question": "What is the name given by researchers at the Information Warfare Monitor to a large-scale cyber spying operation discovered in March 2009?",
+    "ground_truth_answer": "GhostNet (simplified Chinese: 幽灵网; traditional Chinese: 幽靈網; pinyin: YōuLíngWǎng) is the name given by researchers at the Information Warfare Monitor to a large-scale cyber spying operation discovered in March 2009.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/GhostNet"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 20,
+    "question": "What is the name given by Microsoft to a cybercrime collective active against governments and related organizations in South and Southeast Asia?",
+    "ground_truth_answer": "PLATINUM is the name given by Microsoft to a cybercrime collective active against governments and related organizations in South and Southeast Asia.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/PLATINUM_(cybercrime_group)"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 21,
+    "question": "What does History of Faizabad refer to?",
+    "ground_truth_answer": "Local tradition holds Fyzabad or now Faizabad is identical with Saketa of the Ramayana, supposedly the private estate of King Dasharatha, the father of Rama.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/History_of_Faizabad"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 22,
+    "question": "What did WazirX, an Indian cryptocurrency exchange, do on July 18, 2024?",
+    "ground_truth_answer": "On July 18, 2024, WazirX, an Indian cryptocurrency exchange was hacked, leading to the loss of approximately $234.9 million (around Rs 2000 crore) in investor funds.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/2024_WazirX_hack"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 23,
+    "question": "What does Paranandi Venkata Suryanarayana Rao refer to?",
+    "ground_truth_answer": "Paranandi Venkata Suryanarayana Rao is an Indian computer scientist, known for his research in the fields of speech and script recognition and is credited with contributions to the development of TIFRAC, the first indigenously developed electronic computer in India.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/P._V._S._Rao"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 24,
+    "question": "What does Sivaji Bandyopadhyay refer to?",
+    "ground_truth_answer": "Sivaji Bandyopadhyay is an Indian academic and is currently the Chairperson and former Director of National Institute of Technology Silchar.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Sivaji_Bandyopadhyay"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 25,
+    "question": "What did the Bangalore Cantonment refer to?",
+    "ground_truth_answer": "The Bangalore Cantonment (1806–1881) was a cantonment of the British Raj based in the Indian city of Bangalore.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Bangalore_Cantonment"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 26,
+    "question": "What does Sandeep Shukla refer to?",
+    "ground_truth_answer": "Sandeep Kumar Shukla is currently the director of International Institute of Information Technology, Hyderabad (IIITH).",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Sandeep_Shukla"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 27,
+    "question": "What is Krishnendu Chatterjee's profession?",
+    "ground_truth_answer": "Krishnendu Chatterjee (Bengali: কৃষ্ণেন্দু চ্যাটার্জী) is an Indian computer scientist who is currently a professor at the Institute of Science and Technology Austria (ISTA).",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Krishnendu_Chatterjee"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 28,
+    "question": "What is Sunil K. Agrawal's occupation?",
+    "ground_truth_answer": "Agrawal (born 1963) is an Indian roboticist and professor of Fu Foundation School of Engineering and Applied Science with secondary appointment in Rehabilitation and Regenerative Medicine at Columbia University.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Sunil_K._Agrawal"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 29,
+    "question": "What does Kundara refer to?",
+    "ground_truth_answer": "Kundara is a satellite town in Kerala and is part of the Kollam Metropolitan Area, India.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Kundara"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 30,
+    "question": "What does Vijay Vaishnavi refer to?",
+    "ground_truth_answer": "Vijay Kumar Vaishnavi is a noted researcher and scholar in the computer information systems field with contributions mainly in the areas of design science, software engineering, and data structures & algorithms, authoring over 150 publications including seven books in these and related areas, and co-owning a patent.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Vijay_Vaishnavi"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 31,
+    "question": "What is Ellappa Balagurusamy's occupation?",
+    "ground_truth_answer": "Ellappa Balagurusamy is an Indian educator, engineer.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/E._Balagurusamy"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 32,
+    "question": "What does Shamkant Navathe refer to?",
+    "ground_truth_answer": "Navathe is a noted researcher in the field of databases with more than 150 publications on different topics in the area of databases.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Shamkant_Navathe"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 33,
+    "question": "What is Anantha P. Chandrakasan's profession?",
+    "ground_truth_answer": "Chandrakasan is the current Provost and Vannevar Bush Professor of Electrical Engineering and Computer Science at Massachusetts Institute of Technology.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Anantha_P._Chandrakasan"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 34,
+    "question": "What does Holy Trinity Church, Bengaluru refer to?",
+    "ground_truth_answer": "Holy Trinity Church, located at Trinity circle at the east end of the MG Road, is an Anglican church and a major landmark in Bengaluru.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Holy_Trinity_Church,_Bengaluru"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 35,
+    "question": "What does Supratik Chakraborty refer to?",
+    "ground_truth_answer": "Supratik Chakraborty is an Indian computer scientist.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Supratik_Chakraborty"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 36,
+    "question": "Where are the Bhoopasandra inscriptions and hero stones found?",
+    "ground_truth_answer": "The Bhoopasandra inscriptions and hero stones are found in Bhoopasandra, a sub-locality in Hebbal, Bengaluru.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Bhoopasandra_inscriptions_and_hero_stones"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 37,
+    "question": "What happened during the Indian Rebellion of 1857?",
+    "ground_truth_answer": "The Battle of Agra was a comparatively minor but nevertheless decisive action at the end of a prolonged siege during the Indian Rebellion of 1857.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Battle_of_Agra"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 38,
+    "question": "What does Asian News International v. Wikimedia Foundation refer to?",
+    "ground_truth_answer": "Wikimedia Foundation (CS(OS) 524/2024) is an ongoing civil defamation case in India.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Asian_News_International_v._Wikimedia_Foundation"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 39,
+    "question": "What does Network18 Media & Investments Limited refer to?",
+    "ground_truth_answer": "Network18 Media & Investments Limited (d/b/a Network18 Group) is an Indian media conglomerate owned by the Reliance Industries with 56.89% share headed by Mukesh Ambani and rest of 43.11% is equity holding.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Network18_Group"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 40,
+    "question": "What is the name of the person that Roopam Sharma refers to?",
+    "ground_truth_answer": "Roopam Sharma (born 24 May 1995) is an Indian scientist.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Roopam_Sharma"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 41,
+    "question": "What is the difference between John Archibald Ballard's early life and his later life?",
+    "ground_truth_answer": "Lieutenant General John Archibald Ballard, CB LLD RE (20 June 1829 – 1 April 1880) was a British soldier. == Early life and career == Ballard was born in Portbury, Somerset, the second son of George Ballard, a Calcutta Merchant, and Jane Tod daughter of Alexander Tod and Charlote Bruere.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/John_Archibald_Ballard"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 42,
+    "question": "How do the concepts discussed in WannaCry ransomware attack differ from those discussed in EternalBlue?",
+    "ground_truth_answer": "The WannaCry ransomware attack was a worldwide cyberattack in May 2017 by the WannaCry ransomware cryptoworm, which targeted computers running the Microsoft Windows operating system by encrypting data and demanding ransom payments in the form of bitcoin cryptocurrency. It was propagated using EternalBlue, an exploit developed by the United States National Security Agency (NSA) for Microsoft Windows systems.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/WannaCry_ransomware_attack"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 43,
+    "question": "What are the concepts discussed in Lazarus Group?",
+    "ground_truth_answer": "The Lazarus Group (also known as the Guardians of Peace or Whois Team) is a state-sponsored hacker group made up of unknown members, alleged to be run by the government of North Korea. While not much is known about the group, researchers have attributed many cyberattacks to them since the 2010s.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Lazarus_Group"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 44,
+    "question": "What are the different concepts discussed in Kollam Port?",
+    "ground_truth_answer": "Kollam Port or Port of Quilon is one of the oldest ports (established in AD 825) situated 4 kilometres (2.5 mi) away from Downtown Kollam (formerly Quilon) It is the third largest port in Kerala by volume of cargo handled and facilities and one of the four Kerala ports having immigration checkpoint (ICP) facility. Located on the south-west coast of India, it was an important port from the ninth to the seventeenth centuries.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Kollam_Port"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 45,
+    "question": "What are the concepts discussed in Anil K. Jain?",
+    "ground_truth_answer": "Anil Kumar Jain (born 1948) is an Indian-American computer scientist and University Distinguished Professor in the Department of Computer Science and Engineering at Michigan State University. He is one of the most highly cited researchers in computer science, and is internationally recognized for his foundational contributions to pattern recognition, computer vision, and biometric recognition, particularly in fingerprint recognition and face recognition.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Anil_K._Jain_(computer_scientist,_born_1948)"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 46,
+    "question": "What are the concepts discussed in Tamal Dey?",
+    "ground_truth_answer": "Tamal Krishna Dey (born 1964) is an Indian mathematician and computer scientist specializing in computational geometry and computational topology. He is a professor at Purdue University.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Tamal_Dey"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 47,
+    "question": "What did Lascar think of the Lascars?",
+    "ground_truth_answer": "The Lascar War Memorial, located on Napier Road in the Hastings area of Kolkata, is a memorial dedicated to the memory of the 896 lascars (sailors from the Indian subcontinent) who died serving on ships of the Royal Navy and British Merchant Service during World War I. == Lascar == He had thought that the Lascars were a tribe or nation, like the Cherokee or Sioux: he discovered now that they came from places that were far apart, and had nothing in common, except the Indian Ocean; among them were Chinese and East Africans, Arabs and Malays, Bengalis and Goans, Tamils and Arakanese.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Lascar_War_Memorial"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 48,
+    "question": "What are the concepts discussed in Vaidyeswaran Rajaraman?",
+    "ground_truth_answer": "Vaidyeswaran Rajaraman (8 September 1933 – 8 November 2025) was an Indian computer scientist, academic and writer known for his pioneering efforts in the field of Computer Science Education in India. He is credited with the establishment of the first academic program in computer science in India, which he helped initiate at the Indian Institute of Technology, Kanpur in 1965.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Vaidyeswaran_Rajaraman"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 49,
+    "question": "What are the concepts discussed in N. Gautham?",
+    "ground_truth_answer": "Namasivayam Gautham (born 1955) is a retired Professor Emeritus at the Centre of Advance Study in Crystallography and Biophysics, University of Madras. He is known for his work on DNA Crystallography, protein structure prediction and molecular docking.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/N._Gautham"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 50,
+    "question": "What is the difference between Vijay Kumar (Roboticist) and UPS Foundation professor?",
+    "ground_truth_answer": "Vijay Kumar (born 1962) is an Indian roboticist. He is a UPS Foundation professor at the University of Pennsylvania School of Engineering and Applied Science.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Vijay_Kumar_(roboticist)"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 51,
+    "question": "How did the concepts discussed in Political history of Mysore and Coorg (1565–1760) differ from the concepts discussed in Political history of Mysore and Coorg (1565–1760)?",
+    "ground_truth_answer": "The political history of the region on the Deccan Plateau in west-central peninsular India (Map 1) that was later divided into Mysore state and Coorg province saw many changes after the fall of the Hindu Vijayanagara Empire in 1565. The rise of Sultan Haidar Ali in 1761 introduced a new period.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Political_history_of_Mysore_and_Coorg_(1565–1760)"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 52,
+    "question": "How do the concepts discussed in 2020 Palghar mob lynching differ from the ones discussed in 2020 Palghar mob lynching?",
+    "ground_truth_answer": "On 16 April 2020, a vigilante group lynched two Hindu Sadhus and their driver in Gadchinchale Village, Palghar District, Maharashtra, India. The incident was fuelled by WhatsApp rumours of thieves operating in the area during the countrywide coronavirus lockdown.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/2020_Palghar_mob_lynching"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 53,
+    "question": "How do the concepts discussed in 2009 Mangalore pub attack differ?",
+    "ground_truth_answer": "On 24 January 2009, the Sri Ram Sena attacked a group of young women and men in a pub in Mangalore, India. A group of 40 activists of the Sri Rama Sena barged into the pub \"Amnesia – The Lounge\" and beat up a group of young women and men, claiming the women were violating traditional Indian values.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/2009_Mangalore_pub_attack"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 54,
+    "question": "What are the concepts discussed in History of Bengaluru?",
+    "ground_truth_answer": "Bengaluru is the capital city of the state of Karnataka. Bengaluru, as a city, was founded by Kempe Gowda I, who built a mud fort at the site in 1537.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/History_of_Bengaluru"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 55,
+    "question": "What is the date when Manju Bansal has specialized in the field of Molecular biophysics?",
+    "ground_truth_answer": "1 December 1950) has specialized in the field of Molecular biophysics. Currently, she is a professor in theoretical Biophysics group for Molecular Biophysics unit in the Indian Institute of Science, Bangalore.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Manju_Bansal"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 56,
+    "question": "What are the concepts discussed in N. R. Narayana Murthy?",
+    "ground_truth_answer": "Nagavara Ramarao Narayana Murthy (born 20 August 1946) is an Indian billionaire businessman. He is the founder of Infosys, and was the chairman, chief executive officer (CEO), president, and chief mentor of the company before retiring and becoming chairman emeritus.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/N._R._Narayana_Murthy"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 57,
+    "question": "How do the concepts discussed in City Wall of Hyderabad differ from the concepts discussed in Old City of Hyderabad?",
+    "ground_truth_answer": "The City Wall of Hyderabad was a city wall surrounding Hyderabad, although the city has expanded significantly beyond the wall. The wall used to enclose the area of present Old City of Hyderabad.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/City_Wall_of_Hyderabad"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 58,
+    "question": "What are the concepts discussed in Hebbal-Kittayya inscription?",
+    "ground_truth_answer": "Hebbal is a locality situated in the northern part of Bengaluru, is recognized as one of Bengaluru’s oldest regions, with documented history extending back at least 1,300 years. Originally marking the northern boundary of the city, Bengaluru has since expanded significantly northward.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Hebbal-Kittayya_inscription"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 59,
+    "question": "What are the concepts discussed in GhostNet?",
+    "ground_truth_answer": "GhostNet (simplified Chinese: 幽灵网; traditional Chinese: 幽靈網; pinyin: YōuLíngWǎng) is the name given by researchers at the Information Warfare Monitor to a large-scale cyber spying operation discovered in March 2009. The operation is likely associated with an advanced persistent threat, or a network actor that spies undetected.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/GhostNet"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 60,
+    "question": "How do the concepts discussed in PLATINUM (cybercrime group) differ?",
+    "ground_truth_answer": "PLATINUM is the name given by Microsoft to a cybercrime collective active against governments and related organizations in South and Southeast Asia. They are secretive and not much is known about the members of the group.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/PLATINUM_(cybercrime_group)"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 61,
+    "question": "How do the concepts discussed in History of Faizabad differ?",
+    "ground_truth_answer": "Local tradition holds Fyzabad or now Faizabad is identical with Saketa of the Ramayana, supposedly the private estate of King Dasharatha, the father of Rama. It is claimed that Saket was renamed after the death of Faiz Baksh, a courtier of the Nawab of Awadh.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/History_of_Faizabad"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 62,
+    "question": "How did the concept discussed in WazirX hack differ from the one discussed in 2024 WazirX hack?",
+    "ground_truth_answer": "On July 18, 2024, WazirX, an Indian cryptocurrency exchange was hacked, leading to the loss of approximately $234.9 million (around Rs 2000 crore) in investor funds. The exchange ceased to operate on 18 July 2024.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/2024_WazirX_hack"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 63,
+    "question": "What are the concepts discussed in Paranandi Venkata Suryanarayana Rao?",
+    "ground_truth_answer": "Paranandi Venkata Suryanarayana Rao is an Indian computer scientist, known for his research in the fields of speech and script recognition and is credited with contributions to the development of TIFRAC, the first indigenously developed electronic computer in India. He is a recipient of awards such as IEEE Third Millenium Medal, Vikram Sarabhai Award, Om Prakash Bhasin Award and VASVIK Industrial Research Award.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/P._V._S._Rao"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 64,
+    "question": "What are the concepts discussed in Sivaji Bandyopadhyay?",
+    "ground_truth_answer": "Sivaji Bandyopadhyay is an Indian academic and is currently the Chairperson and former Director of National Institute of Technology Silchar. He is a Professor of Computer Science and Engineering.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Sivaji_Bandyopadhyay"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 65,
+    "question": "How did the concepts discussed in Bangalore Cantonment differ from those discussed in the British Raj?",
+    "ground_truth_answer": "The Bangalore Cantonment (1806–1881) was a cantonment of the British Raj based in the Indian city of Bangalore. The cantonment covered an area of 13 square miles (34 km2), extending from the Residency on the west to Binnamangala on the east and from the Tanneries on Tannery Road in the north to AGRAM (Army Group Royal Artillery Maidan - Maidan meaning Ground) in the south.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Bangalore_Cantonment"
+    ],
+    "category": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "id": 66,
+    "question": "Why did many organizations not apply these patches?",
+    "ground_truth_answer": "These patches were imperative to cyber security, but many organizations did not apply them, citing a need for 24/7 operation, the risk of formerly working applications breaking because of the changes, lack of personnel or time to install them, or other reasons.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/WannaCry_ransomware_attack"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 67,
+    "question": "Why does North Korea benefit from conducting cyber operations?",
+    "ground_truth_answer": "North Korea benefits from conducting cyber operations because it can present an asymmetric threat with a small group of operators, especially to South Korea.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Lazarus_Group"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 68,
+    "question": "Why did Mar Abo volunteer to the Chera king to create a new seaport town near at Kollam instead of his request for renewing the almost vanishing Tyndis or Nelcynda inland seaport ( kore-ke-ni) at Ko",
+    "ground_truth_answer": "It is also believed that Mar Abo actually volunteered to the Chera king to create a new seaport town near at Kollam instead of his request for renewing the almost vanishing Tyndis or Nelcynda inland seaport ( kore-ke-ni) at Kollam, lying idle without trade for a few centuries because of the Cheras being overrun by Pallavas in the 6th century AD ending the spice trade from Malabar coast.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Kollam_Port"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 69,
+    "question": "Why did South Indian rulers and the resources demanded in the name of that sovereignty diminish the resources which local chieftains used as a kind of royal largess?",
+    "ground_truth_answer": "The sovereign claims of would-be centralizing, South Indian rulers and the resources demanded in the name of that sovereignty diminished the resources which local chieftains used as a kind of royal largess; thus centralizing demands were opposed on moral as well as on political grounds by even quite modest chiefs.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Political_history_of_Mysore_and_Coorg_(1565–1760)"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 70,
+    "question": "Why did the Wodeyars return to Mysore?",
+    "ground_truth_answer": "== Wodeyars and British East India == Upon the passing of Tipu Sultan, the Wodeyars returned to the throne of Mysore, and therefore Bangalore, although only as figureheads.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/History_of_Bengaluru"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 71,
+    "question": "Why does this happen?",
+    "ground_truth_answer": "This digital documentation allows for detailed study and analysis, making the inscriptions accessible to researchers and enthusiasts worldwide.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Hebbal-Kittayya_inscription"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 72,
+    "question": "Why do Microsoft's investigators taxonomise this malware into families?",
+    "ground_truth_answer": "Because of the diversity of this malware, the versions of which have little code in common, Microsoft's investigators have taxonomised it into families.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/PLATINUM_(cybercrime_group)"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 73,
+    "question": "Why did he move?",
+    "ground_truth_answer": "It is said, he moved because he wanted to get away from the control of a dominant mother.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/History_of_Faizabad"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 74,
+    "question": "Why did the British move their garrison to Bangalore?",
+    "ground_truth_answer": "=== Establishment of cantonment === The British found Bangalore to be a pleasant and appropriate place to station their garrison and therefore moved their garrison to Bangalore from Srirangapatna.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Bangalore_Cantonment"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 75,
+    "question": "Why does the Garuda Purana state that the act of killing a Brahmana leads to rebirth as a donkey, camel, or a female buffalo?",
+    "ground_truth_answer": "Similarly, the Garuda Purana states that the act of killing a Brahmana leads to rebirth as a donkey, camel, or a female buffalo.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Bhoopasandra_inscriptions_and_hero_stones"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 76,
+    "question": "Why did Greathed's brigade march to a parade ground?",
+    "ground_truth_answer": "Greathed's tired brigade therefore marched to a parade ground about 1.5 miles (2.4 km) from the fort, and began to pitch camp.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Battle_of_Agra"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 77,
+    "question": "Why is Wikipedia a significant social media \"intermediary\" within the definition of Information Technology Act (IT Act), 2000?",
+    "ground_truth_answer": "It also argued that Wikipedia is a significant social media \"intermediary\" within the definition of Information Technology Act (IT Act), 2000, and must therefore comply with the requirements of the Act, including taking down any content that the government or its agencies deem violative, or be personally liable for content published under its platform.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Asian_News_International_v._Wikimedia_Foundation"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 78,
+    "question": "Why does RIL's ability to influence the formation of public opinion and as a result the political economy of the country, and also decreased space for reporting which could be detrimental to the energy giant's interests and public relations?",
+    "ground_truth_answer": "Control over the news organisation, had strengthened RIL's ability to influence the formation of public opinion and as a result the political economy of the country, and also decreased space for reporting which could be detrimental to the energy giant's interests and public relations.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Network18_Group"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 79,
+    "question": "Why does the TRAI chief Rahul Khullar say that Airtel cannot be held responsible for violating net neutrality?",
+    "ground_truth_answer": "The TRAI chief Rahul Khullar said that Airtel cannot be held responsible for violating net neutrality because India has no regulation that demands net neutrality.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Net_neutrality_in_India"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 80,
+    "question": "Why did the Christians in general resented Hyder Ali's rule?",
+    "ground_truth_answer": "Despite this, the Christians in general resented Hyder Ali's rule because of the heavy taxes they were made to pay to the king's treasury.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Captivity_of_Mangalorean_Catholics_at_Seringapatam"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 81,
+    "question": "Why is Sality considered one of the most complex and formidable forms of malware to date?",
+    "ground_truth_answer": "Because of its continued development and capabilities, Sality is considered one of the most complex and formidable forms of malware to date.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Sality"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 82,
+    "question": "Why does this happen?",
+    "ground_truth_answer": "Manmohan Singh for remarkable strides in commercialization of affordable robotic and automation systems for educational, medical, and socially relevant causes in collaboration with small and medium enterprises.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Prakash_Naidu"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 83,
+    "question": "Why did the second wave leave Goa?",
+    "ground_truth_answer": "The second wave left Goa because of famines, epidemics and political upheavals.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/History_of_Mangalorean_Catholics"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 84,
+    "question": "Why did T K Nair alias Thozhur Krishnana Nair hold office until July 1945?",
+    "ground_truth_answer": "T K Nair alias Thozhur Krishnana Nair succeeded Dr Menon and held office until July 1945 because the term of the Council was extended due to World War II.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Cochin_Legislative_Council"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 85,
+    "question": "Why does this happen?",
+    "ground_truth_answer": "As a result, she was granted a special interview and hired immediately.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Sudha_Murty"
+    ],
+    "category": "inferential",
+    "difficulty": "medium"
+  },
+  {
+    "id": 86,
+    "question": "How does the initial concept lead to the final outcome?",
+    "ground_truth_answer": "Lieutenant General John Archibald Ballard, CB LLD RE (20 June 1829 – 1 April 1880) was a British soldier. The construction of the Ballard Pier, which was originally a small pier with an approach jetty, enabled the growth of a tiny fishing village called Mumbai into a major port. Westminster: Archibald Constable.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/John_Archibald_Ballard"
+    ],
+    "category": "multi-hop",
+    "difficulty": "hard"
+  },
+  {
+    "id": 87,
+    "question": "What is Anu Garg's occupation?",
+    "ground_truth_answer": "Anu Garg (born April 5, 1967) is an American author and speaker.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Anu_Garg"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 88,
+    "question": "What does Net neutrality in India refer to?",
+    "ground_truth_answer": "Mechanisms for establishing rules ensuring net neutrality in India, are at present mainly enforced by the Telecom Regulatory Authority of India (TRAI).",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Net_neutrality_in_India"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 89,
+    "question": "What is a Bangalore torpedo?",
+    "ground_truth_answer": "A Bangalore torpedo is an explosive charge placed within one or several connected tubes.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Bangalore_torpedo"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 90,
+    "question": "What does Chitra Dutta refer to?",
+    "ground_truth_answer": "Chitra Dutta is a former chief scientist and head of Structural Biology and Bioinformatics division in CSIR-Indian Institute of Chemical Biology, Kolkata, India.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Chitra_Dutta"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 91,
+    "question": "What was the captivity of Mangalorean Catholics at Seringapatam?",
+    "ground_truth_answer": "The Captivity of Mangalorean Catholics at Seringapatam (1784–1799) was a 15-year-long imprisonment of Mangalorean Catholics and other Christians at Seringapatam, in the Carnataca region of India by Tippu Sultan; who was the de facto ruler of the Kingdom of Mysore following its usurpation.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Captivity_of_Mangalorean_Catholics_at_Seringapatam"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 92,
+    "question": "What does Hillol Kargupta refer to?",
+    "ground_truth_answer": "Hillol Kargupta is an academic, scientist, and entrepreneur.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Hillol_Kargupta"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 93,
+    "question": "What is the classification for a family of malicious software (malware) infecting Microsoft Windows system files?",
+    "ground_truth_answer": "Sality is the classification for a family of malicious software (malware) infecting Microsoft Windows system files.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Sality"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 94,
+    "question": "What does Lalbagh refer to?",
+    "ground_truth_answer": "Lalbagh Botanical Garden or simply Lalbagh (lit.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Lal_Bagh"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 95,
+    "question": "What does Prakash Naidu refer to?",
+    "ground_truth_answer": "Prakash Naidu is a scientist in the field of Design for Automation.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Prakash_Naidu"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 96,
+    "question": "What is the legacy of Lusitanian culture or the Christianisation in Portuguese in Goa and Bombay, followed by the migration of the New Christians of Portuguese Goa, to the Canara subregion then under the Kingdom of Bednore from the mid-16th to mid-18th centuries",
+    "ground_truth_answer": "The History of Mangalorean Catholics begins with the legacy of Lusitanian culture or the Christianisation in Portuguese in Goa and Bombay, followed by the migration of the New Christians of Portuguese Goa, to the Canara subregion then under the Kingdom of Bednore from the mid-16th to mid-18th centuries and the subsequent formation of a unique Mangalorean Catholic community and identity.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/History_of_Mangalorean_Catholics"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 97,
+    "question": "What does Madan Babu refer to?",
+    "ground_truth_answer": "Madan Babu is an Indian-American computational biologist and bioinformatician.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/M._Madan_Babu"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 98,
+    "question": "What did the Cochin Legislative Council refer to?",
+    "ground_truth_answer": "The Cochin Legislative Council was a unicameral legislative body of the Cochin State that functioned from 1925 to 1948 before the merger of Cochin and Travancore to form the Travancore–Cochin state and the Travancore–Cochin Legislative Assembly.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Cochin_Legislative_Council"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 99,
+    "question": "What does the National Cyber Crime Coordination Centre refer to?",
+    "ground_truth_answer": "The National Cyber Crime Coordination Centre (1930; Hindi: भारतीय साइबर अपराध समन्वय केंद्र) is a government initiative to deal with cybercrime in India, in a coordinated and effective manner.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Indian_Cyber_Crime_Coordination_Centre"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "id": 100,
+    "question": "What does Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 refer to?",
+    "ground_truth_answer": "The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 is secondary or subordinate legislation that suppresses India's Intermediary Guidelines Rules 2011.",
+    "gold_urls": [
+      "https://en.wikipedia.org/wiki/Information_Technology_Rules,_2021"
+    ],
+    "category": "factual",
+    "difficulty": "easy"
+  }
+]
