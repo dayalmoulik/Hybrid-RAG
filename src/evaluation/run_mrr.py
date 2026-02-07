@@ -4,6 +4,9 @@ from src.retrieval.BM25_sparse import BM25Retriever
 from src.retrieval.rrf import reciprocal_rank_fusion
 from src.evaluation.mrr import mean_reciprocal_rank
 from src.evaluation.recall import recall_at_k
+from src.generation.generator import ResponseGenerator
+from src.evaluation.semantic_similarity import SemanticSimilarity
+
 
 
 QUESTIONS_FILE = "data/questions/questions_100.json"
@@ -62,7 +65,11 @@ if __name__ == "__main__":
     sparse.build_index()
 
     for mode in ["dense", "sparse", "hybrid"]:
+        generator = ResponseGenerator()
+        sim_metric = SemanticSimilarity()
 
+        pred_answers = []
+        gold_answers = []
         all_retrieved = []
         all_gold = []
 
@@ -79,15 +86,23 @@ if __name__ == "__main__":
                 retrieved = reciprocal_rank_fusion(
                     [dense_results, sparse_results],
                     k=60,
-                    top_n=10
+                    top_n=5
                 )
     
             all_retrieved.append(retrieved)
             all_gold.append(q["gold_urls"])
+        
+            response = generator.generate(q["question"], retrieved)
+
+            pred_answers.append(response["answer"])
+            gold_answers.append(q["ground_truth_answer"])
 
         mrr = mean_reciprocal_rank(all_retrieved, all_gold)
         recall = recall_at_k(all_retrieved, all_gold, k=5)
+        similarity = sim_metric.average_score(pred_answers, gold_answers)
 
         print(f"\n{mode.upper()} RESULTS")
         print(f"MRR: {mrr:.4f}")
         print(f"Recall@5: {recall:.4f}")
+        print(f"Semantic similarity: {similarity:.4f}")
+        
