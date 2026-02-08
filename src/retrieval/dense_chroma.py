@@ -25,9 +25,9 @@ class ChromaDenseRetriever:
     def retrieve(self, query, top_k=5):
 
         results = self.collection.query(
-            query_texts=[query],
-            n_results=top_k
-        )
+                    query_texts=[query],
+                    n_results=top_k
+                    )
 
         output = []
 
@@ -35,6 +35,7 @@ class ChromaDenseRetriever:
 
             output.append({
                 "rank": i + 1,
+                "chunk_id": results["ids"][0][i],  # REQUIRED for RRF
                 "score": 1.0 - results["distances"][0][i],
                 "text": results["documents"][0][i],
                 "url": results["metadatas"][0][i]["url"],
@@ -42,7 +43,6 @@ class ChromaDenseRetriever:
             })
 
         return output
-
 
 if __name__ == "__main__":
 
